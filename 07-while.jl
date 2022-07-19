@@ -1,5 +1,12 @@
 # while-loops
 
+N = 1
+
+while N < 5
+    println(N)
+    N += 1
+end
+
 # while-loops Exercises
 
 # Print all natural numbers from 1 to N

@@ -1,5 +1,28 @@
 # for-loops
 
+for n in [1, 2, 3, 4, 5]
+println(n)
+end
+
+for n in 1:2:10
+    println(n)
+end
+
+N = 1_000_000
+for n in 0:100_000:N
+    println(n)    
+end
+
+# start:step:finish
+
+for i in 1:20
+    println(i)
+end
+
+1:20
+
+rand()
+
 # for-loops Exercises
 
 # Write a Julia program to construct this pattern below:
