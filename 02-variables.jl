@@ -39,3 +39,5 @@ typeof(my_unicode_char)
 
 # methodswith
 methodswith(String)
+
+# https://pkgdocs.julialang.org/v1/ 
