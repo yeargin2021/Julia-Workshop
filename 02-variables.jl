@@ -24,7 +24,7 @@ typeof(mortality)
 # Strings: String
 
 my_string = "Welcome to JuliaCon"
-my_string2 = 'Welcome to Julia'
+my_string2 = "\'Welcome to Julia\'"
 my_char = 'c'
 
 typeof(my_string)
@@ -33,6 +33,7 @@ my_unicode_char = 'α'
 
 typeof(my_unicode_char)
 
+π
 
 # typeof
 
